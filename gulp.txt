@@ -8,3 +8,4 @@ npm install --save-dev  browser-sync
 npm install --save-dev gulp-autoprefixer
 npm install gulp-clean-css --save-dev
 npm i gulp-rename
+npm i
