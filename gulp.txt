@@ -3,4 +3,8 @@ npm install --global gulp-cli
  npm install --save-dev gulp-cli
 npm install --save-dev gulp
 npm install node-sass gulp-sass --save-dev
-
+npm install -g browser-sync
+npm install --save-dev  browser-sync
+npm install --save-dev gulp-autoprefixer
+npm install gulp-clean-css --save-dev
+npm i gulp-rename
