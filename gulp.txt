@@ -1,0 +1,6 @@
+npm init
+npm install --global gulp-cli
+ npm install --save-dev gulp-cli
+npm install --save-dev gulp
+npm install node-sass gulp-sass --save-dev
+
